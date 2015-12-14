@@ -1,0 +1,34 @@
+                                            Talk'n Private :
+                                            ----------------
+
+Talk'n Private is a great tool that can encrypt your plain text and and decrypt your encrypted text using the key. This tool uses the unique encrytion algorithm which is very much secure.
+
+Instructions :
+-------------- 
+To encrypt your text follows these steps-
+
+1. Open Talk'n Private in MS Window Enviorment.
+2. Wait for Logo to dissappear.
+3. Select "Encrypt Now".
+4. Goto "Put the encryption key " and type your key to encrypt text.
+5. Put the plain text in " Your text here " Column.
+6. Press "Encrypt Now" to encrypt your text.
+7. Press "Copy To Clipboard" to copy the encrypted text.
+
+To decrypt your text follows these steps-
+
+1. Open Talk'n Private in MS Window Enviorment.
+2. Wait for Logo to dissappear.
+3. Select "Decrypt Now".
+4. Goto "Put the decryption key " and type your key to decrypt text.
+5. Paste manually or Press "Paste From Clipboard" to paste the encrypted text.
+6. Press "Decrypt Now" to decrypt your text.
+
+About Us :
+----------
+
+This application is developed and designed by Ajit Singh,
+for any other queries and suggestion send mail to : ajeet.drag@gmail.com
+
+
+Thanks
